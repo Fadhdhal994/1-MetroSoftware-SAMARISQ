@@ -1,0 +1,14 @@
+/* Tambahkan kustomisasi di sini jika dibutuhkan */
+
+/* Contoh: Menyesuaikan teks di header */
+header h1 {
+    font-size: 24px;
+    color: #fff;
+  }
+  
+  /* Custom styles untuk footer */
+  footer p {
+    font-size: 14px;
+    color: #d1d5db; /* Tailwind's gray-300 */
+  }
+  
